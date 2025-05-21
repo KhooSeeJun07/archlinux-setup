@@ -34,6 +34,8 @@ papirus-icon-theme [Papirus icon Theme](https://github.com/PapirusDevelopmentTea
 ##### Cursor
 bibata-cursor-theme [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
 
+![Showcase](showcase.png)
+
 #### Requirement
 git
 yay
