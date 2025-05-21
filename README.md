@@ -1,42 +1,39 @@
-## My Arch Linux Setup
-
-#### Window Manager
-hyprland https://hyprland.org/
+### My Arch Linux Setup
+##### Window Manager
+hyprland [Hyprland](https://hyprland.org/) 
 Theme: default
 
-#### Terminal Emulator
-kitty https://sw.kovidgoyal.net/kitty/
+##### Terminal Emulator
+kitty [Kitty](https://sw.kovidgoyal.net/kitty/)
 Theme: (Github Dark from kitten theme)
 
-#### App Launcher
-rofi https://github.com/davatorium/rofi
+##### App Launcher
+rofi [Rofi](https://github.com/davatorium/rofi) 
 Theme: (Arc-Dark from rofi-theme-selector)
 
-#### Text editor
-neovim https://neovim.io/
-Theme: https://github.com/AstroNvim/AstroNvim
+##### Text editor
+neovim [NeoVim](https://neovim.io/) 
+Theme: [AstraNVim](https://github.com/AstroNvim/AstroNvim)
 
-#### Status Bar
-waybar https://github.com/Alexays/Waybar
-Theme: https://github.com/cjbassi/config/tree/master/.config/waybar
+##### Status Bar
+waybar [Waybar](https://github.com/Alexays/Waybar) 
+Theme: [cjbassi](https://github.com/cjbassi/config/tree/master/.config/waybar)
 
-#### File Manager
-yazi https://github.com/sxyazi/yazi
+##### File Manager
+yazi [Yazi](https://github.com/sxyazi/yazi)
 
-#### System Info
-fastfetch https://github.com/fastfetch-cli/fastfetch
+##### System Info
+fastfetch [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
-#### Font
-noto-fonts
-noto-fonts-cjk
+##### Font
+noto-fonts noto-fonts-cjk
 
-#### Icon
-papirus-icon-theme https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+##### Icon
+papirus-icon-theme [Papirus icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
-#### Cursor
-bibata-cursor-theme https://github.com/ful1e5/Bibata_Cursor
+##### Cursor
+bibata-cursor-theme [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
 
-### Requirement
-Arch Linux https://archlinux.org/
+#### Requirement
 git
 yay
