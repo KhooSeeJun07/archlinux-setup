@@ -84,6 +84,7 @@ libreoffice-fresh \
 obsidian \
 transmission-qt \
 gnome-disk-utility \
+hyprpaper \
 
 flatpak install -y flathub \
 io.mrarm.mcpelauncher \
