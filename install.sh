@@ -18,14 +18,14 @@ cava \
 sudo pacman -S --needed --noconfirm noto-fonts noto-fonts-cjk papirus-icon-theme
 yay -S --needed --noconfirm bibata-cursor-theme-bin
 
-mkdir ~/.config/hypr
+mkdir -p ~/.config/hypr
 cp ./config/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
 cp ./config/hypr/hyprlock.conf ~/.config/hypr/hyprlock.conf
-mkdir ~/.config/kitty
+mkdir -p ~/.config/kitty
 cp ./config/kitty/kitty.conf ~/.config/kitty/kitty.conf
-mkdir ~/.config/rofi
+mkdir -p ~/.config/rofi
 cp ./config/rofi/config.rasi ~/.config/rofi/config.rasi
-mkdir ~/.config/waybar
+mkdir -p ~/.config/waybar
 cp ./config/waybar/config ~/.config/waybar/config
 cp ./config/waybar/style.css ~/.config/waybar/style.css
 git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
